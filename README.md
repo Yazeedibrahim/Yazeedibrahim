@@ -1,5 +1,5 @@
   <img src="https://dl.dropbox.com/scl/fi/4b4xwrb7o5k9b3xg4crv6/hacker.jpeg?rlkey=n8h7qbiisp6p6opmyw6gs3bi6&st=v0ui5j2n&dl=0">
-<br><br> <img src="https://dl.dropbox.com/scl/fi/bnl9ycv5mpdcxchixietq/yadhu-yAHgEFKTEds-unsplash.jpg?rlkey=c40hxyioee62qa4bur3xjv19l&st=f5nyju6a&dl=0">
+<br><br> <img src="https://dl.dropbox.com/scl/fi/bnl9ycv5mpdcxchixietq/yadhu-yAHgEFKTEds-unsplash.jpg?rlkey=c40hxyioee62qa4bur3xjv19l&st=f5nyju6a&dl=0" width="10%" height="10%">
 
 #
 
