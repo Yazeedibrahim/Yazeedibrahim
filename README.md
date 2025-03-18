@@ -39,7 +39,7 @@ const Lildude = {
 
 </i><h2><b> ✨ Visit my web</h1></b>
 
-<h2><b><a href="https://www.sumalya.com/"> Sumalya.com </a></b></h2>
+<h2><b><a href="https://ramadan-kareen.vercel.app/"> Ghost.com </a></b></h2>
 
 #
 
